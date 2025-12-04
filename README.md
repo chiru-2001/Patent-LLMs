@@ -4,4 +4,6 @@ The codebooks use g_patent.tsv.zip, g_patent_abstract.tsv.zip, g_assignee_disamb
 
 These zip files are too large to be put in the GitHub Repository
 
+HuggingFace repository: https://huggingface.co/spaces/chirasmai1606/patent-graph-rag
+
 Thank you!
