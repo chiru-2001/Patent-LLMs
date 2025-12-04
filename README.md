@@ -4,6 +4,8 @@ The codebooks use g_patent.tsv.zip, g_patent_abstract.tsv.zip, g_assignee_disamb
 
 These zip files are too large to be put in the GitHub Repository
 
+To setup Neo4j instance, sign up on Neo4j Aura: https://console-preview.neo4j.io/
+
 HuggingFace repository: https://huggingface.co/spaces/chirasmai1606/patent-graph-rag
 
 Thank you!
